@@ -1,0 +1,852 @@
+{
+    "chunks": [
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 0.0,
+            "end": 7.0,
+            "text": " Suppose a car travels 100 meters in say 5 seconds."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 7.0,
+            "end": 11.0,
+            "text": " The goal of this video is to figure out what is the speed of that car,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 11.0,
+            "end": 14.0,
+            "text": " how is it different than velocity,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 14.0,
+            "end": 18.0,
+            "text": " and how do we represent motion on a piece of paper."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 18.0,
+            "end": 19.0,
+            "text": " Let's find out."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 19.0,
+            "end": 21.0,
+            "text": " So, let's start with speed."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 21.0,
+            "end": 25.0,
+            "text": " We define speed as the distance traveled by an object"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " divided by the time taken to travel that distance."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 28.0,
+            "end": 32.0,
+            "text": " In our example, the distance traveled is 100 meters,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " and the time taken to travel that distance,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 34.0,
+            "end": 37.0,
+            "text": " well, it took 5 seconds to do that."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 37.0,
+            "end": 39.0,
+            "text": " So it's going to be 100 meters divided by 5 seconds."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 39.0,
+            "end": 42.0,
+            "text": " What is 100 by 5? That is 20."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 42.0,
+            "end": 44.0,
+            "text": " And what is the unit of the speed?"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 44.0,
+            "end": 45.0,
+            "text": " Well, let's see."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 45.0,
+            "end": 49.0,
+            "text": " It's meters divided by seconds."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 49.0,
+            "end": 53.0,
+            "text": " So we say the speed is 20 meters per second in this particular case."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 53.0,
+            "end": 57.0,
+            "text": " So, just from this, we can now understand the meaning of the word speed."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 57.0,
+            "end": 63.0,
+            "text": " It tells us that the car is traveling 20 meters every second."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 63.0,
+            "end": 65.0,
+            "text": " That's how you think about speed."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 65.0,
+            "end": 69.0,
+            "text": " It tells you how much an object is traveling every second."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 69.0,
+            "end": 72.0,
+            "text": " Now, there are other units of speed."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 72.0,
+            "end": 76.0,
+            "text": " For example, in our everyday life, the unit of speed is miles per hour."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 76.0,
+            "end": 81.0,
+            "text": " And it turns out 20 meters per second is roughly around 45 miles per hour."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 81.0,
+            "end": 83.0,
+            "text": " But don't worry about how we converted it."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 83.0,
+            "end": 86.0,
+            "text": " It's just to get a feeling for how big this number is."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " We'll stick to meters per second."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 88.0,
+            "end": 90.0,
+            "text": " And another caveat is that in this particular animation,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 90.0,
+            "end": 92.0,
+            "text": " the car was moving at a steady rate."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 92.0,
+            "end": 96.0,
+            "text": " But it's also possible that the car could have moved much faster in the beginning"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " and then a little slower towards the end,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " still covering 100 meters in 5 seconds."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 101.0,
+            "end": 106.0,
+            "text": " In that particular case, the car literally does not travel 20 meters every second."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " But the speed value turns out to be the same"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 108.0,
+            "end": 110.0,
+            "text": " because it's still covering 100 meters in 5 seconds."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 110.0,
+            "end": 114.0,
+            "text": " So, in that particular case, what does this number mean?"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 114.0,
+            "end": 117.0,
+            "text": " Well, in that particular case, this would be an average value."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 117.0,
+            "end": 121.0,
+            "text": " We say on average, the car is traveling 20 meters every second."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 121.0,
+            "end": 125.0,
+            "text": " And that's why this is actually called the average speed."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " Average speed is distance divided by time."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 128.0,
+            "end": 131.0,
+            "text": " But again, for our purposes, we don't have to worry about that."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 131.0,
+            "end": 135.0,
+            "text": " We will only consider cases in which the car is moving at a steady rate in this video."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 135.0,
+            "end": 141.0,
+            "text": " So, for our purposes, this literally means the car is traveling 20 meters every second."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 141.0,
+            "end": 143.0,
+            "text": " Alright, so now comes the next question."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 143.0,
+            "end": 145.0,
+            "text": " How do we represent this on a piece of paper?"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 145.0,
+            "end": 148.0,
+            "text": " Well, we do that by drawing a graph."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " So, let's do that step by step, okay?"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 150.0,
+            "end": 153.0,
+            "text": " So, first, we draw a horizontal."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 153.0,
+            "end": 156.0,
+            "text": " And we usually represent the time on the horizontal axis."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 156.0,
+            "end": 161.0,
+            "text": " Then, we draw the vertical and we usually represent the distance on the vertical axis."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " So, let's look at the distance traveled at different time intervals."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " Let's take one second time interval."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 165.0,
+            "end": 166.0,
+            "text": " Here's what I mean."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 167.0,
+            "end": 168.0,
+            "text": " When time was zero,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 168.0,
+            "end": 171.0,
+            "text": " the distance traveled is zero meters."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 171.0,
+            "end": 173.0,
+            "text": " If I wait for one second,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " exactly one second,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 175.0,
+            "end": 177.0,
+            "text": " the car travels 20 meters."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 177.0,
+            "end": 180.0,
+            "text": " If I wait for two seconds,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 180.0,
+            "end": 183.0,
+            "text": " the car would have traveled a total of 40 meters."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 183.0,
+            "end": 185.0,
+            "text": " If I wait for three seconds,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 185.0,
+            "end": 187.0,
+            "text": " the car would have traveled a total of 60 meters."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 187.0,
+            "end": 191.0,
+            "text": " Four seconds, the car would have traveled a total of 80 meters."
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 191.0,
+            "end": 193.0,
+            "text": " And finally, after five seconds,"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 193.0,
+            "end": 198.04,
+            "text": " seconds the car would have traveled a total of a hundred meters. Now what we"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 198.04,
+            "end": 204.96,
+            "text": " can do is we can plot these values over here. So here is the distance values and"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 204.96,
+            "end": 210.6,
+            "text": " then here is the time values and now let's plot them. The first plot is the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 210.6,
+            "end": 215.2,
+            "text": " first point is at 0 0 so when the time is 0 the distance traveled is 0 so the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 215.2,
+            "end": 218.8,
+            "text": " first point is over here so this particular point is located over here"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 218.8,
+            "end": 224.0,
+            "text": " then when the time is 1 second the distance traveled is 20 meters and so"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 224.0,
+            "end": 228.08,
+            "text": " the way we can plot that is we can draw a line a dotted line for 20 meters a"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 228.08,
+            "end": 232.16000000000003,
+            "text": " dotted line for 1 second and we can say hey this point is over here it's"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 232.16000000000003,
+            "end": 237.52,
+            "text": " represented by this one and we can keep doing that for 2 seconds 40 meters so"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 237.52,
+            "end": 244.56,
+            "text": " here we go for 3 seconds 60 meters 4 seconds 80 meters and finally for 5"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 244.56,
+            "end": 250.96,
+            "text": " seconds we have 100 meters and finally we can connect all the dots and look"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 250.96,
+            "end": 256.68,
+            "text": " when you try to connect all the dots what we get we get a straight line this"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 256.68,
+            "end": 262.4,
+            "text": " straight line represents this motion this is how we can draw this motion on a"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 262.4,
+            "end": 268.8,
+            "text": " piece of paper isn't it amazing but wait there's more remember that the time that"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 268.8,
+            "end": 272.72,
+            "text": " we calculated 5 seconds here it represents the horizontal and the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 272.72,
+            "end": 276.36,
+            "text": " distance that we calculate over here 100 meters here it represents the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 276.36,
+            "end": 282.56,
+            "text": " vertical and since speed is the distance divided by the time in the graph this"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 282.56,
+            "end": 288.40000000000003,
+            "text": " represents the vertical divided by the horizontal so we could say that in this"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 288.40000000000003,
+            "end": 291.84000000000003,
+            "text": " distance time graph if you take the vertical divided by the horizontal you"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 291.84000000000003,
+            "end": 295.16,
+            "text": " get this speed and we could have calculated that vertical by horizontal"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 295.16,
+            "end": 298.76000000000005,
+            "text": " whatever we want on the graph and we would get the same result for example"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 298.76,
+            "end": 304.2,
+            "text": " over here look we get 40 by 2 which is still 20 meters per second so this"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 304.2,
+            "end": 307.08,
+            "text": " quantity where you calculate the vertical divide by the horizontal we"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 307.08,
+            "end": 315.24,
+            "text": " give a name to it we call it the slope so slope is the vertical divided by the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 315.24,
+            "end": 321.08,
+            "text": " horizontal or we can also call it the rise over the run or in general because"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 321.08,
+            "end": 324.48,
+            "text": " the horizontal is usually labeled the x-axis and the vertical is labeled the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 324.72,
+            "end": 330.20000000000005,
+            "text": " y-axis we call this the change in the y-coordinate and this represents the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 330.20000000000005,
+            "end": 334.12,
+            "text": " change in the x-coordinate so we can also say it's change in y divided by the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 334.12,
+            "end": 337.12,
+            "text": " change in x however you want to think about it I like to think about it as the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 337.12,
+            "end": 341.08000000000004,
+            "text": " vertical divided by the horizontal or the rise over the run but why is it"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 341.08000000000004,
+            "end": 345.48,
+            "text": " called the slope well that's because it literally tells you how sloping or how"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 345.48,
+            "end": 350.40000000000003,
+            "text": " steep the graph is I mean if the graph was steeper look this slope is much"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 350.4,
+            "end": 355.67999999999995,
+            "text": " higher though you get a much higher vertical for the same horizontal so I"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 355.67999999999995,
+            "end": 361.32,
+            "text": " literally get a bigger slope and because slope represents the speed I can just"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 361.32,
+            "end": 367.0,
+            "text": " look at this graph and say that hey this object is traveling faster than our car"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 367.0,
+            "end": 371.4,
+            "text": " that's amazing just by looking at this I can tell I can comment on the speed isn't"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 371.4,
+            "end": 375.79999999999995,
+            "text": " it amazing and similarly what if the graph was less steep then look for the"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 375.8,
+            "end": 380.84000000000003,
+            "text": " same horizontal I get a much smaller vertical so I get a much smaller slope"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 380.84000000000003,
+            "end": 385.2,
+            "text": " and again slope represents the speed and therefore I can look at this and say hey"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 385.2,
+            "end": 391.04,
+            "text": " this object is traveling much slower compared to our car and what about this"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 391.04,
+            "end": 395.52,
+            "text": " case what if it's completely horizontal oh now the vertical just goes to zero"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 395.52,
+            "end": 399.48,
+            "text": " there is no vertical length anymore so the slope is zero that means the speed"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 399.48,
+            "end": 403.32,
+            "text": " is zero and that makes sense now this object is not traveling any"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 403.48,
+            "end": 409.8,
+            "text": " distance at all it's always at zero it's at rest so isn't this beautiful just by"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 409.8,
+            "end": 413.76,
+            "text": " looking at the slope I can figure out the speed of the object this finally"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 413.76,
+            "end": 418.4,
+            "text": " brings us to velocity what exactly is velocity well velocity is just speed"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 418.4,
+            "end": 423.32,
+            "text": " with direction in our example the car has a speed of 20 meters per second but"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 423.32,
+            "end": 427.2,
+            "text": " what is its velocity but its velocity is 20 meters per second to the right"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 427.2,
+            "end": 431.34,
+            "text": " because it's traveling to the right here's another example consider a bike"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 431.34,
+            "end": 435.34,
+            "text": " that's going at 30 meters it's traveling 30 meters every second well its speed"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 435.34,
+            "end": 438.78,
+            "text": " is 30 meters per second but what is its velocity well since it's traveling to"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 438.78,
+            "end": 442.78,
+            "text": " the left its velocity is 30 meters per second towards the left and that's it"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 442.78,
+            "end": 447.78,
+            "text": " okay so putting it all together we define speed as distance divided by time"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 447.78,
+            "end": 451.73999999999995,
+            "text": " it has a unit of meters per second it's a measure of how fast something is"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 451.73999999999995,
+            "end": 457.46,
+            "text": " moving and we can draw a distance time graph and the slope which is basically"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 457.58,
+            "end": 463.34,
+            "text": " the vertical divided by the horizontal that represents the speed on this"
+        },
+        {
+            "number": 3,
+            "title": "Lecture",
+            "start": 463.34,
+            "end": 470.26,
+            "text": " particular graph and velocity is just speed with direction"
+        }
+    ],
+    "text": " Suppose a car travels 100 meters in say 5 seconds. The goal of this video is to figure out what is the speed of that car, how is it different than velocity, and how do we represent motion on a piece of paper. Let's find out. So, let's start with speed. We define speed as the distance traveled by an object divided by the time taken to travel that distance. In our example, the distance traveled is 100 meters, and the time taken to travel that distance, well, it took 5 seconds to do that. So it's going to be 100 meters divided by 5 seconds. What is 100 by 5? That is 20. And what is the unit of the speed? Well, let's see. It's meters divided by seconds. So we say the speed is 20 meters per second in this particular case. So, just from this, we can now understand the meaning of the word speed. It tells us that the car is traveling 20 meters every second. That's how you think about speed. It tells you how much an object is traveling every second. Now, there are other units of speed. For example, in our everyday life, the unit of speed is miles per hour. And it turns out 20 meters per second is roughly around 45 miles per hour. But don't worry about how we converted it. It's just to get a feeling for how big this number is. We'll stick to meters per second. And another caveat is that in this particular animation, the car was moving at a steady rate. But it's also possible that the car could have moved much faster in the beginning and then a little slower towards the end, still covering 100 meters in 5 seconds. In that particular case, the car literally does not travel 20 meters every second. But the speed value turns out to be the same because it's still covering 100 meters in 5 seconds. So, in that particular case, what does this number mean? Well, in that particular case, this would be an average value. We say on average, the car is traveling 20 meters every second. And that's why this is actually called the average speed. Average speed is distance divided by time. But again, for our purposes, we don't have to worry about that. We will only consider cases in which the car is moving at a steady rate in this video. So, for our purposes, this literally means the car is traveling 20 meters every second. Alright, so now comes the next question. How do we represent this on a piece of paper? Well, we do that by drawing a graph. So, let's do that step by step, okay? So, first, we draw a horizontal. And we usually represent the time on the horizontal axis. Then, we draw the vertical and we usually represent the distance on the vertical axis. So, let's look at the distance traveled at different time intervals. Let's take one second time interval. Here's what I mean. When time was zero, the distance traveled is zero meters. If I wait for one second, exactly one second, the car travels 20 meters. If I wait for two seconds, the car would have traveled a total of 40 meters. If I wait for three seconds, the car would have traveled a total of 60 meters. Four seconds, the car would have traveled a total of 80 meters. And finally, after five seconds, seconds the car would have traveled a total of a hundred meters. Now what we can do is we can plot these values over here. So here is the distance values and then here is the time values and now let's plot them. The first plot is the first point is at 0 0 so when the time is 0 the distance traveled is 0 so the first point is over here so this particular point is located over here then when the time is 1 second the distance traveled is 20 meters and so the way we can plot that is we can draw a line a dotted line for 20 meters a dotted line for 1 second and we can say hey this point is over here it's represented by this one and we can keep doing that for 2 seconds 40 meters so here we go for 3 seconds 60 meters 4 seconds 80 meters and finally for 5 seconds we have 100 meters and finally we can connect all the dots and look when you try to connect all the dots what we get we get a straight line this straight line represents this motion this is how we can draw this motion on a piece of paper isn't it amazing but wait there's more remember that the time that we calculated 5 seconds here it represents the horizontal and the distance that we calculate over here 100 meters here it represents the vertical and since speed is the distance divided by the time in the graph this represents the vertical divided by the horizontal so we could say that in this distance time graph if you take the vertical divided by the horizontal you get this speed and we could have calculated that vertical by horizontal whatever we want on the graph and we would get the same result for example over here look we get 40 by 2 which is still 20 meters per second so this quantity where you calculate the vertical divide by the horizontal we give a name to it we call it the slope so slope is the vertical divided by the horizontal or we can also call it the rise over the run or in general because the horizontal is usually labeled the x-axis and the vertical is labeled the y-axis we call this the change in the y-coordinate and this represents the change in the x-coordinate so we can also say it's change in y divided by the change in x however you want to think about it I like to think about it as the vertical divided by the horizontal or the rise over the run but why is it called the slope well that's because it literally tells you how sloping or how steep the graph is I mean if the graph was steeper look this slope is much higher though you get a much higher vertical for the same horizontal so I literally get a bigger slope and because slope represents the speed I can just look at this graph and say that hey this object is traveling faster than our car that's amazing just by looking at this I can tell I can comment on the speed isn't it amazing and similarly what if the graph was less steep then look for the same horizontal I get a much smaller vertical so I get a much smaller slope and again slope represents the speed and therefore I can look at this and say hey this object is traveling much slower compared to our car and what about this case what if it's completely horizontal oh now the vertical just goes to zero there is no vertical length anymore so the slope is zero that means the speed is zero and that makes sense now this object is not traveling any distance at all it's always at zero it's at rest so isn't this beautiful just by looking at the slope I can figure out the speed of the object this finally brings us to velocity what exactly is velocity well velocity is just speed with direction in our example the car has a speed of 20 meters per second but what is its velocity but its velocity is 20 meters per second to the right because it's traveling to the right here's another example consider a bike that's going at 30 meters it's traveling 30 meters every second well its speed is 30 meters per second but what is its velocity well since it's traveling to the left its velocity is 30 meters per second towards the left and that's it okay so putting it all together we define speed as distance divided by time it has a unit of meters per second it's a measure of how fast something is moving and we can draw a distance time graph and the slope which is basically the vertical divided by the horizontal that represents the speed on this particular graph and velocity is just speed with direction"
+}

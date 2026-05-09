@@ -1,0 +1,621 @@
+{
+    "chunks": [
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 0.0,
+            "end": 3.68,
+            "text": " You probably know that when you disturb water, you see circular ripples going outwards,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 3.68,
+            "end": 9.52,
+            "text": " waves of water. But the big question is, what exactly is a wave? And what are its"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 9.52,
+            "end": 13.92,
+            "text": " characteristic features? That's what we're going to figure out in this video. So let's begin."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 13.92,
+            "end": 18.56,
+            "text": " So let's investigate this. When you disturb water, say by pouring a drop onto it, what really"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 18.56,
+            "end": 23.68,
+            "text": " happens? Well, the molecule of water that's right over there, let's model it by using just a circle"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 23.68,
+            "end": 28.400000000000002,
+            "text": " over here, that gets disturbed, it starts vibrating. So maybe it goes down and then goes up. So it"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 28.4,
+            "end": 33.92,
+            "text": " starts vibrating. But here's the thing, that molecule of water is connected to the molecules"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 33.92,
+            "end": 37.76,
+            "text": " of the water that are surrounding it. There's a force of attraction between them. And as a result,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 37.76,
+            "end": 44.239999999999995,
+            "text": " that molecule of water also makes these molecules of water vibrate. So they too go down and then go"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 44.239999999999995,
+            "end": 49.84,
+            "text": " back up. But they are connected to the molecules of water that are surrounding them. There is a"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 49.84,
+            "end": 55.36,
+            "text": " force of attraction between them as well. And so they will make these molecules of water also"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 55.36,
+            "end": 60.32,
+            "text": " vibrate. They too go down and up and so on and so forth. And as a result,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 62.96,
+            "end": 71.2,
+            "text": " look, the disturbance propagates outwards. And that's what we see as circular ripples going"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 71.2,
+            "end": 77.36,
+            "text": " outwards. So what exactly is a wave? Well, we saw that the disturbance got transferred, it propagated,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 77.36,
+            "end": 82.48,
+            "text": " it moved from one point to another. In other words, energy got transferred from one point to another."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 82.48,
+            "end": 86.24000000000001,
+            "text": " But the water molecules did not move from one point to another. They were pretty much in their"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 86.24000000000001,
+            "end": 94.48,
+            "text": " own place vibrating. So waves transfer energy, but not matter. It's very similar to the human"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 94.48,
+            "end": 100.64,
+            "text": " wave that you see in a stadium. Look at that. You see a disturbance propagating to the left,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 100.64,
+            "end": 105.60000000000001,
+            "text": " isn't it? But notice the humans over there, people, they're just vibrating up and down."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 105.60000000000001,
+            "end": 109.12,
+            "text": " They're not moving. Humans are not moving from one place to another. But the disturbance is."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 109.60000000000001,
+            "end": 114.96000000000001,
+            "text": " That's what a wave is. Okay, so now to investigate further, let's consider a type of wave that has"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 114.96000000000001,
+            "end": 119.68,
+            "text": " repeating patterns. For example, in this FET simulation, if I were to switch on this tap,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 119.68,
+            "end": 126.56,
+            "text": " a drop keeps falling every second. And now we have a wave that keeps repeating itself. Okay,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 126.56,
+            "end": 131.20000000000002,
+            "text": " this is very nice. And this is much easier to analyze. We call such a wave that has a repeating"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 131.20000000000002,
+            "end": 137.6,
+            "text": " pattern, we call it a periodic wave, because it's repeating itself periodically. So let's think about"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 137.6,
+            "end": 143.44,
+            "text": " the different features of the wave. The first one is called the frequency. The frequency of a wave"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 143.44,
+            "end": 149.44,
+            "text": " is basically the number of waves that are passing through any given point in some given time. For"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 149.44,
+            "end": 156.88,
+            "text": " example, in this particular case, every second one drop is falling down. And therefore, if I were to"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 156.88,
+            "end": 164.72,
+            "text": " look at any particular point, you'll find one wave passing through that point every second. That is"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 164.72,
+            "end": 170.8,
+            "text": " the frequency of the wave. So we can say the frequency of this wave is one wave per second."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 170.8,
+            "end": 177.44,
+            "text": " And a wave per second is also called hertz. So we can say the frequency of the wave over here"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 177.44,
+            "end": 182.8,
+            "text": " is one hertz. Now let's see what it would what things would look like if I were to increase the"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 182.8,
+            "end": 187.44,
+            "text": " rate at which the water drops. So if I were to now make the two drops of waterfall every second,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 187.44,
+            "end": 194.48,
+            "text": " let's see what's going to happen. Ooh, ooh, now you can see there'll be two waves passing through"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 194.48,
+            "end": 201.04,
+            "text": " a point every second. And therefore, we would say this has a frequency, this wave has a frequency of"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 201.04,
+            "end": 208.95999999999998,
+            "text": " two hertz. And we can just compare the two. Here's a side by side comparison. You can see"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 208.95999999999998,
+            "end": 214.79999999999998,
+            "text": " one hertz versus two hertz. One wave per second passing through any point, two waves per second"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 214.79999999999998,
+            "end": 220.56,
+            "text": " passing through any point. But look at the speed of the wave. The speed of the wave is the same."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 220.56,
+            "end": 226.0,
+            "text": " In both the cases, the wave is traveling the same amount of distance in a given time. So do not"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 226.0,
+            "end": 230.4,
+            "text": " confuse frequency with speed. In both these cases, the speed of the wave is exactly the same. It's a"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 230.4,
+            "end": 235.12,
+            "text": " distance that the, you know, wave travels per second, you can say. So that is different from"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 235.12,
+            "end": 239.36,
+            "text": " the frequency. Okay, what else do we have? Well, to understand another feature, let's look at the"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 239.36,
+            "end": 243.2,
+            "text": " whole thing from the side. Now, before the wave starts, look at the level of the water. This is"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 243.2,
+            "end": 248.48000000000002,
+            "text": " the equilibrium position, okay? Now let's look at what happens when we start our tap. Okay, what you"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 248.48,
+            "end": 253.51999999999998,
+            "text": " notice is that now the water level, you know, there is this bottom level and there's this top"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 253.51999999999998,
+            "end": 258.48,
+            "text": " level. Like, let me just pause the video. All right, we find these peaks which are the highest points"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 258.48,
+            "end": 263.2,
+            "text": " above the equilibrium line. We call them the crests. And we find these valleys which are the"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 263.2,
+            "end": 269.92,
+            "text": " lowest point below the equilibrium line. We call them the troughs. And now the distance between any"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 269.92,
+            "end": 277.44,
+            "text": " two consecutive crests or consecutive troughs, that is what we call the wavelength. So we can"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 277.44,
+            "end": 281.68,
+            "text": " think of wavelength as a measure of how big the wave is. And you can call that as the distance"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 281.68,
+            "end": 287.36,
+            "text": " between any two consecutive troughs or consecutive crests. And since it's a length, wavelength is"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 287.36,
+            "end": 292.64,
+            "text": " measured in units of length, like meters or maybe centimeters. And now here's the interesting thing."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 292.64,
+            "end": 297.2,
+            "text": " What do you think is going to happen to the wavelength as you change the frequency? Well,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 297.2,
+            "end": 301.12,
+            "text": " let's look at the simulation side by side. So on the top, we're going to have one hertz,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 302.0,
+            "end": 305.12,
+            "text": " one drop per second. On the bottom, we have two hertz, two drops per second."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 305.68,
+            "end": 310.64,
+            "text": " Can you compare their wavelengths? What do you notice? Oh, you can see the wavelength over here"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 310.64,
+            "end": 315.2,
+            "text": " is bigger compared to over here. Here, look at the distance between the crests. It is much bigger than"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 315.2,
+            "end": 321.04,
+            "text": " what you see over here. So if you have higher frequency, you get smaller wavelength. Why is"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 321.04,
+            "end": 325.44,
+            "text": " that? Well, that's because the speed of the wave in both the cases was exactly the same. And so if"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 325.44,
+            "end": 331.76,
+            "text": " you're cramming more waves, then the distance between the waves is going to reduce. Amazing,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 331.76,
+            "end": 337.03999999999996,
+            "text": " isn't it? Finally, the last feature we want to talk about is how far the water has moved from"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 337.03999999999996,
+            "end": 343.2,
+            "text": " the equilibrium position. In other words, how high these peaks are, how low these valleys are,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 343.2,
+            "end": 349.59999999999997,
+            "text": " the maximum change from the equilibrium position. We call that the amplitude."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 350.56,
+            "end": 356.48,
+            "text": " So in this particular snapshot, this is how much the amplitude is. Now, let's see what happens if"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 356.48,
+            "end": 360.48,
+            "text": " we change the amplitude. What does the picture look like? Again, let's do a side by side comparison."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 361.36,
+            "end": 365.92,
+            "text": " All right, take a look at these two cases and comment on the frequency and the amplitudes. What"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 365.92,
+            "end": 371.36,
+            "text": " do you find? Well, the frequency is exactly the same. You have one drop falling per second in both"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 371.36,
+            "end": 376.96000000000004,
+            "text": " the cases. So you have one hertz of frequency. But look at the amplitude. Here, the peaks are much"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 376.96000000000004,
+            "end": 381.76,
+            "text": " higher and the values are much lower compared to the peaks and values over here. So clearly,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 381.76,
+            "end": 388.48,
+            "text": " this represents a high amplitude wave and this represents a low amplitude wave. All right, let's"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 388.48,
+            "end": 392.96000000000004,
+            "text": " put it all together and do one final comparison. I want you to have a look at this simulation and"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 392.96000000000004,
+            "end": 398.08000000000004,
+            "text": " compare their speeds, amplitudes, frequencies, and wavelengths. This will also help us recap"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 398.08000000000004,
+            "end": 403.84000000000003,
+            "text": " everything. Here goes. Okay, let's start with the wave speed. Can you compare the speed of the waves?"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 404.64000000000004,
+            "end": 408.48,
+            "text": " Well, remember, the speed of the wave is basically how fast the wave is traveling,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 408.48,
+            "end": 411.76,
+            "text": " how much distance the wave is traveling per second, for example. And you can see in both"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 411.76,
+            "end": 416.24,
+            "text": " the cases, it's exactly the same. The waves are traveling at exactly the same speed. So the speed"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 416.24,
+            "end": 421.36,
+            "text": " is the same in both the cases. Okay, what about the amplitude? Well, remember, amplitude represents"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 421.36,
+            "end": 425.68,
+            "text": " how far away, how high the peaks are, how low the values are, how much is the change from the"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 425.68,
+            "end": 430.40000000000003,
+            "text": " equilibrium position. You can clearly see the change is more over here compared to over here."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 430.40000000000003,
+            "end": 435.84000000000003,
+            "text": " So you have high amplitude here, lower amplitude over here. Okay, what about their frequencies?"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 437.2,
+            "end": 441.68,
+            "text": " Well, remember, frequency represents the number of waves passing per second, let's say, at a given"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 441.68,
+            "end": 445.84000000000003,
+            "text": " point. You can see there are less number of waves passing here per second, more number of waves"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 445.84,
+            "end": 451.52,
+            "text": " passing here per second. Can you see that? So the frequency is low here, high over here. In fact,"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 451.52,
+            "end": 455.52,
+            "text": " the frequency is one hertz over here, two hertz over here. Two waves are passing per second over"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 455.52,
+            "end": 459.91999999999996,
+            "text": " here, one wave is passing per second over here. Okay, finally, what about the wavelength?"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 461.67999999999995,
+            "end": 466.71999999999997,
+            "text": " Okay, wavelength represents the distance between two consecutive crests and troughs."
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 466.71999999999997,
+            "end": 470.88,
+            "text": " You can see that distance is larger over here compared to over here. So we have higher wavelength"
+        },
+        {
+            "number": 1,
+            "title": "Lecture",
+            "start": 470.88,
+            "end": 475.28,
+            "text": " here, lower wavelength over here."
+        }
+    ],
+    "text": " You probably know that when you disturb water, you see circular ripples going outwards, waves of water. But the big question is, what exactly is a wave? And what are its characteristic features? That's what we're going to figure out in this video. So let's begin. So let's investigate this. When you disturb water, say by pouring a drop onto it, what really happens? Well, the molecule of water that's right over there, let's model it by using just a circle over here, that gets disturbed, it starts vibrating. So maybe it goes down and then goes up. So it starts vibrating. But here's the thing, that molecule of water is connected to the molecules of the water that are surrounding it. There's a force of attraction between them. And as a result, that molecule of water also makes these molecules of water vibrate. So they too go down and then go back up. But they are connected to the molecules of water that are surrounding them. There is a force of attraction between them as well. And so they will make these molecules of water also vibrate. They too go down and up and so on and so forth. And as a result, look, the disturbance propagates outwards. And that's what we see as circular ripples going outwards. So what exactly is a wave? Well, we saw that the disturbance got transferred, it propagated, it moved from one point to another. In other words, energy got transferred from one point to another. But the water molecules did not move from one point to another. They were pretty much in their own place vibrating. So waves transfer energy, but not matter. It's very similar to the human wave that you see in a stadium. Look at that. You see a disturbance propagating to the left, isn't it? But notice the humans over there, people, they're just vibrating up and down. They're not moving. Humans are not moving from one place to another. But the disturbance is. That's what a wave is. Okay, so now to investigate further, let's consider a type of wave that has repeating patterns. For example, in this FET simulation, if I were to switch on this tap, a drop keeps falling every second. And now we have a wave that keeps repeating itself. Okay, this is very nice. And this is much easier to analyze. We call such a wave that has a repeating pattern, we call it a periodic wave, because it's repeating itself periodically. So let's think about the different features of the wave. The first one is called the frequency. The frequency of a wave is basically the number of waves that are passing through any given point in some given time. For example, in this particular case, every second one drop is falling down. And therefore, if I were to look at any particular point, you'll find one wave passing through that point every second. That is the frequency of the wave. So we can say the frequency of this wave is one wave per second. And a wave per second is also called hertz. So we can say the frequency of the wave over here is one hertz. Now let's see what it would what things would look like if I were to increase the rate at which the water drops. So if I were to now make the two drops of waterfall every second, let's see what's going to happen. Ooh, ooh, now you can see there'll be two waves passing through a point every second. And therefore, we would say this has a frequency, this wave has a frequency of two hertz. And we can just compare the two. Here's a side by side comparison. You can see one hertz versus two hertz. One wave per second passing through any point, two waves per second passing through any point. But look at the speed of the wave. The speed of the wave is the same. In both the cases, the wave is traveling the same amount of distance in a given time. So do not confuse frequency with speed. In both these cases, the speed of the wave is exactly the same. It's a distance that the, you know, wave travels per second, you can say. So that is different from the frequency. Okay, what else do we have? Well, to understand another feature, let's look at the whole thing from the side. Now, before the wave starts, look at the level of the water. This is the equilibrium position, okay? Now let's look at what happens when we start our tap. Okay, what you notice is that now the water level, you know, there is this bottom level and there's this top level. Like, let me just pause the video. All right, we find these peaks which are the highest points above the equilibrium line. We call them the crests. And we find these valleys which are the lowest point below the equilibrium line. We call them the troughs. And now the distance between any two consecutive crests or consecutive troughs, that is what we call the wavelength. So we can think of wavelength as a measure of how big the wave is. And you can call that as the distance between any two consecutive troughs or consecutive crests. And since it's a length, wavelength is measured in units of length, like meters or maybe centimeters. And now here's the interesting thing. What do you think is going to happen to the wavelength as you change the frequency? Well, let's look at the simulation side by side. So on the top, we're going to have one hertz, one drop per second. On the bottom, we have two hertz, two drops per second. Can you compare their wavelengths? What do you notice? Oh, you can see the wavelength over here is bigger compared to over here. Here, look at the distance between the crests. It is much bigger than what you see over here. So if you have higher frequency, you get smaller wavelength. Why is that? Well, that's because the speed of the wave in both the cases was exactly the same. And so if you're cramming more waves, then the distance between the waves is going to reduce. Amazing, isn't it? Finally, the last feature we want to talk about is how far the water has moved from the equilibrium position. In other words, how high these peaks are, how low these valleys are, the maximum change from the equilibrium position. We call that the amplitude. So in this particular snapshot, this is how much the amplitude is. Now, let's see what happens if we change the amplitude. What does the picture look like? Again, let's do a side by side comparison. All right, take a look at these two cases and comment on the frequency and the amplitudes. What do you find? Well, the frequency is exactly the same. You have one drop falling per second in both the cases. So you have one hertz of frequency. But look at the amplitude. Here, the peaks are much higher and the values are much lower compared to the peaks and values over here. So clearly, this represents a high amplitude wave and this represents a low amplitude wave. All right, let's put it all together and do one final comparison. I want you to have a look at this simulation and compare their speeds, amplitudes, frequencies, and wavelengths. This will also help us recap everything. Here goes. Okay, let's start with the wave speed. Can you compare the speed of the waves? Well, remember, the speed of the wave is basically how fast the wave is traveling, how much distance the wave is traveling per second, for example. And you can see in both the cases, it's exactly the same. The waves are traveling at exactly the same speed. So the speed is the same in both the cases. Okay, what about the amplitude? Well, remember, amplitude represents how far away, how high the peaks are, how low the values are, how much is the change from the equilibrium position. You can clearly see the change is more over here compared to over here. So you have high amplitude here, lower amplitude over here. Okay, what about their frequencies? Well, remember, frequency represents the number of waves passing per second, let's say, at a given point. You can see there are less number of waves passing here per second, more number of waves passing here per second. Can you see that? So the frequency is low here, high over here. In fact, the frequency is one hertz over here, two hertz over here. Two waves are passing per second over here, one wave is passing per second over here. Okay, finally, what about the wavelength? Okay, wavelength represents the distance between two consecutive crests and troughs. You can see that distance is larger over here compared to over here. So we have higher wavelength here, lower wavelength over here."
+}
